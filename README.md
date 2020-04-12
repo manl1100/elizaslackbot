@@ -1,0 +1,2 @@
+# elizaslackbot
+Psychotherapist slack bot
